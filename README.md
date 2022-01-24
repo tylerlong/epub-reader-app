@@ -1,1 +1,3 @@
-# epub-reader-app
+# ePub Reader
+
+ePub Reader, read ePub books.
